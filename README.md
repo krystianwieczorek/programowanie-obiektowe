@@ -1,6 +1,6 @@
 # programowanie-obiektowe
 
-## Labolatorium z Podstaw Informatyki Zestaw 1
+## Labolatorium z Programowania Obiektowego Zestaw 1
 
 ### Zadanie 1. Proszę zrealizować aplikację obiektową, która powinna odznaczać się następującymi cechami:
 - Aplikacja powinna zawierać klasę „Samochod”, umożliwiającą przechowywanie określonych informacji oraz wykonywanie określonych działań.
