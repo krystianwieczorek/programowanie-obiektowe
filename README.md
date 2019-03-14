@@ -13,3 +13,10 @@ klasy (poprzez pole statyczne).
 - Klasa „Samochod” ma umożliwiać obliczanie ceny paliwa potrzebnego do przejechania danej trasy na podstawie podanej długości trasy i ceny paliwa za litr.
 - Klasa „Samochod” ma umożliwiać wypisanie na ekran konsoli wszystkich informacji o danym samochodzie (wartości pól, które nie są statyczne).
 - Klasa „Samochod” ma umożliwiać wypisanie na ekran konsoli informacji o liczbie utworzonych obiektów (poprzez metodę statyczną).
+
+### Zadanie 2. Proszę zrealizować aplikację obiektową, która powinna odznaczać się następującymi cechami:
+- Do wykonania zadania 2 konieczne jest uprzednie wykonanie zadania 1.
+- Aplikacjazzadania1mazostaćuzupełnionaoklasę„Garaz”.
+- Klasa „Garaz” ma przechowywać następujące informacje dotyczące garażu: adres, pojemność, liczba garażowanych samochodów, informacje dotyczące garażowanych samochodów.
+- Klasa „Garaz” ma umożliwiać dodawanie do kolekcji przechowywanych samochodów nowego samochodu oraz wyprowadzanie z tej kolekcji ostatnio wprowadzonego samochodu.
+- Kolekcja samochodów ma zostać zrealizowana za pomocą dynamicznej tablicy.
